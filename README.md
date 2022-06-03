@@ -1,14 +1,10 @@
 ### Edge Computing
 
----
-
 This repo is set up to enrich the skill of edge computing, including embedded system design, FPGA, and some AI techniques...
 
 
 
 ### Navigator
-
----
 
 #### Book
 
@@ -20,9 +16,10 @@ This repo is set up to enrich the skill of edge computing, including embedded sy
 2. High Level Synthesis video tutorial: https://www.youtube.com/watch?v=5lYq8_bqAcI
 3. Useful FPGA HLS doc: https://microchiptech.github.io/fpga-hls-docs/
 4. Gitbook for FPGA HLS: https://xupsh.gitbook.io/pp4fpgas-cn/zheng-wen/01-introduction
-5. PYNQ doc: https://pynq.readthedocs.io/en/latest/index.html
-6. PYNQ community: http://www.pynq.io/community.html
-7. PYNQ basic tutorial: https://github.com/Xilinx/PYNQ_Workshop
+5. Chinese Vivado HLS tutorial: https://zhuanlan.zhihu.com/p/65619926
+6. PYNQ doc: https://pynq.readthedocs.io/en/latest/index.html
+7. PYNQ community: http://www.pynq.io/community.html
+8. PYNQ basic tutorial: https://github.com/Xilinx/PYNQ_Workshop
 
 #### AI
 
