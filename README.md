@@ -23,6 +23,6 @@ This repo is set up to enrich the skill of edge computing, including embedded sy
 
 #### AI
 
-1. TBD
+1. [A White Paper on Neural Network Quantization(Google)](https://arxiv.org/pdf/2106.08295.pdf)
 
 #### 
